@@ -30,13 +30,14 @@
 #     print("Invalid input:", error)
 
 
-with open("first.txt", "a") as file:
-    file.write("Hello, this is a sample text file.\n")
+# with open("first.txt", "a") as file:
+#     file.write("Hello, this is a sample text file.\n")
 
-print("data saved")
+# print("data saved")
 
 
-with open("first.txt", "r") as file:
-    content = file.read()
-    print("File content:")
-    print(content)
+# with open("first.txt", "r") as file:
+#     content = file.read()
+#     print("File content:")
+#     print(content)
+
